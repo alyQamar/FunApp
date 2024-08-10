@@ -1,0 +1,9 @@
+POST http://localhost:3000/users/signup
+Content-Type: application/json
+
+{
+  "name": "Aly Qamar",
+  "email": "alyqamareldawla@gmail.com",
+  "latitude": 30.0444,
+  "longitude": 31.2357
+}
